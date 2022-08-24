@@ -1,10 +1,35 @@
 # Project Writeup
 
-Project UML diagrams:
+## Project UML diagrams:
 
 Activity Diagram
 
-![truffle test](Activity Diagram.drawio.png)
+![Activity Diagram](Activity%20Diagram.drawio.png)
+
+Sequence Diagram
+
+![Sequence Diagram](Sequence%20Diagram.drawio.png)
+
+State Diagram
+
+![State Diagram](State%20Diagram.drawio.png)
+
+Data Model Diagram
+
+![Data Model Diagram](Data%20Model.drawio.png)
+
+## Project Libraries
+
+Libraries used in this project:
+  Node - Development Enviroment
+  Truffle - Smart Contract Development Framework
+  web3 - Web3 library to interface with the Blockchain
+  Mocha - Test framework
+
+## IPFS
+
+No IPFS used in this project
+
 
 # Supply chain & data auditing
 
@@ -19,6 +44,8 @@ The DApp User Interface when running should look like...
 ![truffle test](images/ftc_product_details.png)
 
 ![truffle test](images/ftc_transaction_history.png)
+
+
 
 
 ## Getting Started
